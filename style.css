@@ -1,0 +1,11 @@
+{
+    box-sizing: border-box
+    }
+    header,
+    main,
+    footer{
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
